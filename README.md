@@ -2,7 +2,7 @@
 
 ## Setup and Component
 
-<img src="https://user-images.githubusercontent.com/72638249/151691939-047586dc-916b-448f-9204-9db72e4a1d77.png" align=right width=300>
+<img src="https://user-images.githubusercontent.com/72638249/151691939-047586dc-916b-448f-9204-9db72e4a1d77.png" align=right width=200>
 
 <table>
 <tr><th>Setup </th><th>Component</th></tr>
