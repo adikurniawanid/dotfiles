@@ -1,4 +1,5 @@
-
+# Starship
+eval "$(starship init bash)"
 figlet -f slant Rhapsody
 
 # turn off case sensitive
@@ -95,9 +96,13 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias ll='ls -alF' 
-alias la='ls -A' 
-alias l='ls -CF' 
+alias ll="ls -l"
+alias la="ls -al"
+alias l="ls"
+alias cp="cp -iv"
+alias mv="mv -iv"
+alias vi="nvim"
+alias vim="nvim"
 alias xampp='cd /opt/lampp/ && sudo ./manag*' 
 alias gotop='~/gotop' 
 
