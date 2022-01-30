@@ -1,7 +1,7 @@
 <h1 align=center>Rhapsody - Nord</h1>
 
 ## Setup and Component
-<img src="https://user-images.githubusercontent.com/72638249/151686391-2f5f3cef-d241-4114-848a-81bfa6bd4a78.png" align=right width=380>
+<img src="https://user-images.githubusercontent.com/72638249/151691939-047586dc-916b-448f-9204-9db72e4a1d77.png" align=right width=200>
 
 <table>
 <tr><th>Setup </th><th>Component</th></tr>
