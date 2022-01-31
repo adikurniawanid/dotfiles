@@ -21,7 +21,7 @@
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Plasma-theme  | [Fluent-round](https://github.com/vinceliuice/Fluent-kde)                                                                                                                                               |
 | Kvantum-theme | [Nordic-Darker-Solid](https://github.com/EliverLara/Nordic)                                                                                                                                             |
-| Icons         | [Fluent green dark](https://github.com/vinceliuice/Fluent-icon-theme)                                                                                                                                  |
+| Icons         | [Fluent green dark](https://github.com/vinceliuice/Fluent-icon-theme)                                                                                                                                   |
 | Font-family   | [Roboto](https://fonts.google.com/specimen/Roboto), [Iosevka Term](https://github.com/be5invis/Iosevka)                                                                                                 |
 | Terminal      | [Yakuake](https://apps.kde.org/id/yakuake/)                                                                                                                                                             |
 | Shell         | [fish](https://fishshell.com/) with [starship prompt](https://starship.rs/)                                                                                                                             |
@@ -29,6 +29,7 @@
 | VScode-theme  | [Rhapsody-theme](https://marketplace.visualstudio.com/items?itemName=AdiKurniawan.rhapsody-theme)                                                                                                       |
 | Spotify-theme | [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) > [Custom](https://github.com/adikurniawanid/dotfiles/tree/main/.config/spicetify/Themes/Dribbblish-rhapsody) |
 | Widget        | [ClearClock](https://store.kde.org/p/1666554)                                                                                                                                                           |
+| Wallpaper     | [astronaut](https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/ign_astronaut.png)                                                                                        |
 | <!-- -->      | <!-- -->                                                                                                                                                                                                |
 
 </td></tr> </table>
