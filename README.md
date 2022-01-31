@@ -21,7 +21,7 @@
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Plasma-theme  | [Fluent-round](https://github.com/vinceliuice/Fluent-kde)                                                                                                                                               |
 | Kvantum-theme | [Nordic-Darker-Solid](https://github.com/EliverLara/Nordic)                                                                                                                                             |
-| Icons         | [Fluent orange dark](https://github.com/vinceliuice/Fluent-icon-theme)                                                                                                                                  |
+| Icons         | [Fluent green dark](https://github.com/vinceliuice/Fluent-icon-theme)                                                                                                                                  |
 | Font-family   | [Roboto](https://fonts.google.com/specimen/Roboto), [Iosevka Term](https://github.com/be5invis/Iosevka)                                                                                                 |
 | Terminal      | [Yakuake](https://apps.kde.org/id/yakuake/)                                                                                                                                                             |
 | Shell         | [fish](https://fishshell.com/) with [starship prompt](https://starship.rs/)                                                                                                                             |
@@ -35,10 +35,10 @@
 
 ## Preview
 
-| ![Screenshot_20220130_111137](https://user-images.githubusercontent.com/72638249/151686386-41d2e591-e25d-453a-b995-27f9661e7a7f.png) | ![Screenshot_20220130_105529](https://user-images.githubusercontent.com/72638249/151686396-ea5f8378-859e-40a9-a52e-00d57fb75610.png) |
+| ![Screenshot_20220131_112325](https://user-images.githubusercontent.com/72638249/151740252-033541d8-1523-4852-b487-1b5328fcc8a6.png) | ![Screenshot_20220131_063507](https://user-images.githubusercontent.com/72638249/151740352-77edc3de-6f86-4128-91ad-f1a48d97f102.png) |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Screenshot_20220130_105716](https://user-images.githubusercontent.com/72638249/151686419-fe11dc80-df82-4c33-a0aa-edf4b9aecd17.png) | ![Screenshot_20220130_105808](https://user-images.githubusercontent.com/72638249/151686427-5f3d6508-7dbb-4585-83a5-67f175516608.png) |
-| ![Screenshot_20220130_110101](https://user-images.githubusercontent.com/72638249/151686432-0d158e83-a91b-4f29-8b1c-01b71d534454.png) | ![Screenshot_20220130_105913](https://user-images.githubusercontent.com/72638249/151686436-34c4c850-a9a5-4cf7-a104-885e76630450.png) |
+| ![Screenshot_20220131_063039](https://user-images.githubusercontent.com/72638249/151740431-fc38309c-c035-4f3f-b8d1-4f9885f3ffe6.png) | ![Screenshot_20220131_063802](https://user-images.githubusercontent.com/72638249/151740468-32b322c0-3e8b-47dd-8806-118a1b61332e.png) |
+| ![Screenshot_20220131_062928](https://user-images.githubusercontent.com/72638249/151740566-6ab79f49-6235-4020-87c4-4640e9961ab9.png) | ![Screenshot_20220131_115044](https://user-images.githubusercontent.com/72638249/151740682-86d06a4f-ddc5-4965-b076-0f688583d065.png) |
 
 ## Custom Keybinding
 
