@@ -1,0 +1,14 @@
+[Appearance]
+HideSkinBorders=true
+
+[Desktop Entry]
+DefaultProfile=fluent.profile
+
+[Dialogs]
+FirstRun=false
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[Window]
+ShowTitleBar=false
