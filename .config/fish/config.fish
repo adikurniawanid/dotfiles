@@ -1,5 +1,3 @@
-#starship
-starship init fish | source
 set -U fish_greeting ""
 figlet -f slant "Rhapsody"
 
