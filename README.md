@@ -24,8 +24,8 @@
 | Icons         | [Fluent green dark](https://github.com/vinceliuice/Fluent-icon-theme)                                                                                                                                   |
 | Font-family   | [Roboto](https://fonts.google.com/specimen/Roboto), [Iosevka Term](https://github.com/be5invis/Iosevka)                                                                                                 |
 | Terminal      | [Yakuake](https://apps.kde.org/id/yakuake/)                                                                                                                                                             |
-| Shell         | [fish](https://fishshell.com/) with [starship prompt](https://starship.rs/)                                                                                                                             |
-| Fetch-tool    | [neofetch](https://github.com/dylanaraps/neofetch)                                                                                                                                                      |
+| Shell         | [fish](https://fishshell.com/) with [tide prompt](https://github.com/IlanCosman/tide)                                                                                                                   |
+| Fetch-tool    | [neofetch](https://github.com/dylanaraps/neofetch) & [onefetch](https://github.com/o2sh/onefetch)                                                                                                       |
 | VScode-theme  | [Rhapsody-theme](https://marketplace.visualstudio.com/items?itemName=AdiKurniawan.rhapsody-theme)                                                                                                       |
 | Spotify-theme | [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) > [Custom](https://github.com/adikurniawanid/dotfiles/tree/main/.config/spicetify/Themes/Dribbblish-rhapsody) |
 | Widget        | [ClearClock](https://store.kde.org/p/1666554)                                                                                                                                                           |
@@ -36,10 +36,10 @@
 
 ## Preview
 
-| ![Screenshot_20220131_112325](https://user-images.githubusercontent.com/72638249/151740252-033541d8-1523-4852-b487-1b5328fcc8a6.png) | ![Screenshot_20220131_063507](https://user-images.githubusercontent.com/72638249/151740352-77edc3de-6f86-4128-91ad-f1a48d97f102.png) |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Screenshot_20220131_063039](https://user-images.githubusercontent.com/72638249/151740431-fc38309c-c035-4f3f-b8d1-4f9885f3ffe6.png) | ![Screenshot_20220131_063802](https://user-images.githubusercontent.com/72638249/151740468-32b322c0-3e8b-47dd-8806-118a1b61332e.png) |
-| ![Screenshot_20220131_062928](https://user-images.githubusercontent.com/72638249/151740566-6ab79f49-6235-4020-87c4-4640e9961ab9.png) | ![Screenshot_20220131_115044](https://user-images.githubusercontent.com/72638249/151740682-86d06a4f-ddc5-4965-b076-0f688583d065.png) |
+| ![Home](/assets/img/preview/home.png)                  | ![Terminal](/assets/img/preview/terminal.png)        |
+| ------------------------------------------------------ | ---------------------------------------------------- |
+| ![Spotify](/assets/img/preview/spotify.png)            | ![File Manager](/assets/img/preview/fileManager.png) |
+| ![Visual Studio Code](/assets/img/preview/vsCode.jpeg) | ![Browser](/assets/img/preview/browser.png)          |
 
 ## Custom Keybinding
 
