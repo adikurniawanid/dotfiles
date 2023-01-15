@@ -11,7 +11,13 @@ alias cp="cp -iv"
 alias mv="mv -iv"
 alias vi="nvim"
 alias vim="nvim"
-alias xampp='cd /opt/lampp/ && sudo ./manag*'
+alias xampp='sudo /opt/lampp/manag*' 
 alias gotop='~/App/gotop' 
 alias hugo='~/App/hugo' 
+alias spicetify='~/.spicetify/spicetify' 
+alias mendeley='nohup /opt/mendeley-reference-manager-2.77.0-x86_64.AppImage &' 
+alias postman="/opt/Postman/Postman"
+alias datagrip="nohup /opt/DataGrip-2022.1.5/bin/datagrip.sh &"
+
+
 
